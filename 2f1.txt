@@ -1,0 +1,5 @@
+-firstly you add ssh key of the developer sever which is of git2@server2.abc.com
+-then you add it to the github accoutnto enable connection
+-then copy the repository link
+-and clone it on the developer server eg
+-git clone git@github.com:itzdavis06/AUGB24abcREPO.git
